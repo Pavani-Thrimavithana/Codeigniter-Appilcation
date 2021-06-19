@@ -3,7 +3,7 @@
 Project Structure
 
 loginproject
-   |_application
+      |_application
       |_ config
          |_ autoload.php
          |_ config.php
