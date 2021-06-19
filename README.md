@@ -1,33 +1,5 @@
 # Codeigniter-Appilcation
-
-Project Structure
-
-loginproject
-      |_application
-      |_ config
-         |_ autoload.php
-         |_ config.php
-         |_ database.php
-      |_ controllers
-         |_ Auth.php
-      |_ models
-         |_ Auth_model.php
-      |_ views
-         |_ _Alerts
-      	    |_ alert.php
-         |_ _Layout
-      	    |_ footer.php
-      	    |_ header.php
-         |_ user
-      	    |_ login.php
-      	    |_ register.php
-      	    |_ user_profile.php
-   |_asserts
-      |_ css  
-      |_ font-awesome
-      |_ js
-   |_.htaccess
-   
+  
 # Steps
 1. Intall Codeigniter 3 in XAMPP Server
 2. Setup Codeigniter 3.
