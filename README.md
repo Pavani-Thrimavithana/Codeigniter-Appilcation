@@ -1,6 +1,6 @@
 # Codeigniter-Appilcation
   
-# Steps
+## Steps
 1. Intall Codeigniter 3 in XAMPP Server
 2. Setup Codeigniter 3.
 3. Download Bootstrap 4 library
